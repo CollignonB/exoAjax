@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Durden" ,
+        "age": 30,
+        "city": "New York" 
+    },
+    {
+        "id": 2,
+        "name": "Lecter" ,
+        "age": 45,
+        "city": "Baltimore" 
+    },
+    {
+        "id": 3,
+        "name": "Fireflies" ,
+        "age": 34,
+        "city": "Dallas" 
+    }
+]
