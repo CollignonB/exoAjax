@@ -2,19 +2,25 @@
     {
         "id": 1,
         "name": "Durden" ,
+        "firstname":"Tyler",
         "age": 30,
-        "city": "New York" 
-    },
-    {
-        "id": 2,
-        "name": "Lecter" ,
-        "age": 45,
-        "city": "Baltimore" 
+        "city": "New York",
+        "activitée pref": "Renverser le système"
     },
     {
         "id": 3,
         "name": "Fireflies" ,
+        "firstname":"Otis",
         "age": 34,
-        "city": "Dallas" 
+        "city": "Dallas" ,
+        "activitée pref": "Tuer"
+    },
+    {
+        "id": 2,
+        "name": "Lecter" ,
+        "firstname":"Hannibal",
+        "age": 45,
+        "city": "Baltimore",
+        "activitée pref": "Tuer"
     }
 ]
